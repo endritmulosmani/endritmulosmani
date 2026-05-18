@@ -1,16 +1,49 @@
-## Hi there 👋
+# Endrit Mulosmani
 
-<!--
-**endritmulosmani/endritmulosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infotronic Systems Engineering student focused on embedded systems, automation, electronics, and intelligent workflow systems.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded Systems
+- Automation
+- Electronics & Circuit Troubleshooting
+- Arduino / Microcontroller Prototyping
+- Python & C++
+- Workflow Automation with n8n
+- Engineering Tools & Technical Documentation
+
+## Current Projects
+
+### Job Intelligence Automation System
+Automated recruiting intelligence workflow using n8n, Gmail, Telegram Bot API, JavaScript, HTML extraction, filtering, and notification logic.
+
+### Engineering Study OS
+Personal learning automation system for organizing engineering lectures, exercises, summaries, and exam preparation workflows.
+
+### Arduino Distance Visualization System
+Arduino-based ultrasonic distance measurement system with real-time Python visualization.
+
+## Technologies
+
+- Python
+- C++
+- JavaScript
+- Arduino
+- n8n
+- Git & GitHub
+- Gmail API
+- Telegram Bot API
+- HTML Parsing
+- MySQL
+- React
+- AutoCAD
+
+## Career Interests
+
+- Embedded Systems
+- Application Engineering
+- Automation Engineering
+- Hardware Testing
+- IoT
+- Technical Project Coordination
+- Engineering Software Tools
