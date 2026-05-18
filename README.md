@@ -17,9 +17,6 @@ Infotronic Systems Engineering student focused on embedded systems, automation, 
 ### Job Intelligence Automation System
 Automated recruiting intelligence workflow using n8n, Gmail, Telegram Bot API, JavaScript, HTML extraction, filtering, and notification logic.
 
-### Engineering Study OS
-Personal learning automation system for organizing engineering lectures, exercises, summaries, and exam preparation workflows.
-
 ### Arduino Distance Visualization System
 Arduino-based ultrasonic distance measurement system with real-time Python visualization.
 
